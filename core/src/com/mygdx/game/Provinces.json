@@ -1,0 +1,80 @@
+{
+	"Provinces": [
+		{
+			"SpriteName": "pomerania",
+			"TextureName": "pomerania.png",
+			"PozX": -42,
+			"PozY": 387
+		},
+		
+		{
+			"SpriteName": "mazuria",
+			"TextureName": "mazuria.png",
+			"PozX": 300,
+			"PozY": 437
+		},
+		
+		{
+			"SpriteName": "mazovia",
+			"TextureName": "mazovia.png",
+			"PozX": 340,
+			"PozY": 209
+		},
+		
+		{
+			"SpriteName": "greaterPoland",
+			"TextureName": "greater_poland.png",
+			"PozX": -20,
+			"PozY": 215
+		},
+		
+		{
+			"SpriteName": "lesserPoland",
+			"TextureName": "lesser_poland.png",
+			"PozX": 368,
+			"PozY": -17
+		},
+		
+		{
+			"SpriteName": "silesia",
+			"TextureName": "silesia.png",
+			"PozX": 0,
+			"PozY": 0
+		},
+		
+		{
+			"SpriteName": "kaliingrad",
+			"TextureName": "kaliningrad.png",
+			"PozX": 346,
+			"PozY": 620
+		},
+		
+		{
+			"SpriteName": "southernBalticSea",
+			"TextureName": "southern_baltic_sea.png",
+			"PozX": -36,
+			"PozY": 510
+		},
+		
+		{
+			"SpriteName": "gdanskBay",
+			"TextureName": "gdansk_bay.png",
+			"PozX": 254,
+			"PozY": 599
+		},
+		
+		{
+			"SpriteName": "kurischesHaff",
+			"TextureName": "kurisches_haff.png",
+			"PozX": 311,
+			"PozY": 620
+		},
+		
+		{
+			"SpriteName": "easternSlovakia",
+			"TextureName": "eastern_slovakia.png",
+			"PozX": 443,
+			"PozY": -111
+		}
+	]
+}
